@@ -33,5 +33,17 @@
         "organizeImports": "on"
       }
     }
+  },
+  "javascript": {
+    "formatter": {
+      "arrowParentheses": "asNeeded",
+      "enabled": true,
+      "indentStyle": "space",
+      "jsxQuoteStyle": "single",
+      "lineEnding": "lf",
+      "quoteStyle": "single",
+      "semicolons": "asNeeded",
+      "trailingCommas": "none"
+    }
   }
 }
