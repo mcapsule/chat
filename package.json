@@ -11,9 +11,15 @@
     "check": "biome check --write ."
   },
   "dependencies": {
+    "@ant-design/icons": "^6.1.0",
+    "@ant-design/nextjs-registry": "^1.2.0",
+    "@ant-design/x": "^1.6.1",
+    "antd": "^5.28.0",
+    "antd-style": "^3.7.1",
+    "dayjs": "^1.11.19",
+    "next": "16.0.1",
     "react": "19.2.0",
-    "react-dom": "19.2.0",
-    "next": "16.0.1"
+    "react-dom": "19.2.0"
   },
   "devDependencies": {
     "babel-plugin-react-compiler": "1.0.0",
